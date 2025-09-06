@@ -8,6 +8,3 @@ Serial hobbyist. **Python-first**. Linux & FOSS fan.
 - **[ChatRecall](https://github.com/ChatRecall)** — End-user apps powered by my Python libraries.
 - **[CRWebApps](https://github.com/CRWebApps)** — Web apps and services I’ve built and maintain.
 - **[OSSContribs](https://github.com/OSSContribs)** — Forks and contributions to upstream open-source projects.
-
-> Pinned repos are just a sample—browse the orgs above for the full picture.
-
