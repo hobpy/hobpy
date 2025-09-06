@@ -1,16 +1,13 @@
-## Hi there 👋
+# HobPy
 
-<!--
-**hobpy/hobpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Serial hobbyist. **Python-first**. Linux & FOSS fan.
 
-Here are some ideas to get you started:
+## Organizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[WrapTools](https://github.com/WrapTools)** — Lightweight Python libraries and building blocks (prompts, dataclasses, pipelines, utilities).
+- **[ChatRecall](https://github.com/ChatRecall)** — End-user apps powered by my Python libraries.
+- **[CRWebApps](https://github.com/CRWebApps)** — Web apps and services I’ve built and maintain.
+- **[OSSContribs](https://github.com/OSSContribs)** — Forks and contributions to upstream open-source projects.
+
+> Pinned repos are just a sample—browse the orgs above for the full picture.
+
